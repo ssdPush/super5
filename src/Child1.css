@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px
+}
+
+.container div {
+    display: inline-flex
+}
+
+.radiotitle {
+    padding-right: 0px;
+}
+
+.radioform {
+    padding-left: 30px;
+    padding-right: 0px;
+}
+
+.radio-inline {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.container2 div {
+    display: inline-flex
+
+}
+
+.container3 {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.svg {
+    overflow: visible  
+}
+
